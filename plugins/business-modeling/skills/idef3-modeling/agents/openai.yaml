@@ -1,0 +1,4 @@
+interface:
+  display_name: "IDEF3: сценарии и перекрестки"
+  short_description: "IDEF3: сценарии, связи и логические перекрестки"
+  default_prompt: "Используй $idef3-modeling для моей задачи по приложенному описанию и материалам."

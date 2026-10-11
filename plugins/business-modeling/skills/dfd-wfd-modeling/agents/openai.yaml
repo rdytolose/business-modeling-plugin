@@ -1,0 +1,4 @@
+interface:
+  display_name: "DFD, WFD и карты процессов"
+  short_description: "DFD, WFD: данные, работы и согласование уровней"
+  default_prompt: "Используй $dfd-wfd-modeling для моей задачи по приложенному описанию и материалам."

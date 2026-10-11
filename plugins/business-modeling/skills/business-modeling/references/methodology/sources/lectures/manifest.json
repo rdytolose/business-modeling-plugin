@@ -1,0 +1,152 @@
+[
+  {
+    "id": "LECT-01",
+    "file_name": "Анализ и концептуальное моделирование систем_Лекция_1_8.pdf",
+    "pages": 314,
+    "bytes": 15538965,
+    "sha256": "76cc104ae6996c5c629195550be44e42611109c1a3d2e7f5e24fd2d835405d70",
+    "text_chars": 167798,
+    "saved_pdf": "sources/lectures/LECT-01.pdf",
+    "saved_text": "extracted/lectures/LECT-01.txt"
+  },
+  {
+    "id": "LECT-02",
+    "file_name": "Анализ и концептуальное моделирование систем_Лекция_8.pdf",
+    "pages": 37,
+    "bytes": 953955,
+    "sha256": "40464291bf2b251e236bd4d9c0193b37444df69fa5a66e90a5f6fcc1623d3995",
+    "text_chars": 20549,
+    "saved_pdf": "sources/lectures/LECT-02.pdf",
+    "saved_text": "extracted/lectures/LECT-02.txt"
+  },
+  {
+    "id": "LECT-03",
+    "file_name": "Анализ и концептуальное моделирование систем_Лекция_7 (1).pdf",
+    "pages": 41,
+    "bytes": 2083706,
+    "sha256": "84e3fbf0f2f3b8d8bd423f08de7c1d8eadc8c49fa70aba4e628124585bafcef4",
+    "text_chars": 23090,
+    "saved_pdf": "sources/lectures/LECT-03.pdf",
+    "saved_text": "extracted/lectures/LECT-03.txt"
+  },
+  {
+    "id": "LECT-04",
+    "file_name": "Анализ и концептуальное моделирование систем_Лекция_6 (1).pdf",
+    "pages": 22,
+    "bytes": 1903823,
+    "sha256": "c0338f10d2f24437f16178fdfb90af7ca227f53e2e6163fecb8e9fd633cca42b",
+    "text_chars": 3203,
+    "saved_pdf": "sources/lectures/LECT-04.pdf",
+    "saved_text": "extracted/lectures/LECT-04.txt"
+  },
+  {
+    "id": "LECT-05",
+    "file_name": "Анализ и концептуальное моделирование систем_Лекция_5 (1).pdf",
+    "pages": 47,
+    "bytes": 1192321,
+    "sha256": "c2efd77fc3566b403a90a0d8812d4a15ac782f88b2c38dd35ef071a1b202438c",
+    "text_chars": 24583,
+    "saved_pdf": "sources/lectures/LECT-05.pdf",
+    "saved_text": "extracted/lectures/LECT-05.txt"
+  },
+  {
+    "id": "LECT-06",
+    "file_name": "Анализ и концептуальное моделирование систем_Лекция_4 (1).pdf",
+    "pages": 42,
+    "bytes": 1840916,
+    "sha256": "73dc414228290f7dddfe01b3e8c778f996f7ec883415e56a3e16d37fa19ca742",
+    "text_chars": 19176,
+    "saved_pdf": "sources/lectures/LECT-06.pdf",
+    "saved_text": "extracted/lectures/LECT-06.txt"
+  },
+  {
+    "id": "LECT-07",
+    "file_name": "Анализ и концептуальное моделирование систем_Лекция_3 (1).pdf",
+    "pages": 39,
+    "bytes": 5286989,
+    "sha256": "140757c7fe2819ca33f7cf491a362e78db67258548085a7761de922fafd0766f",
+    "text_chars": 27897,
+    "saved_pdf": "sources/lectures/LECT-07.pdf",
+    "saved_text": "extracted/lectures/LECT-07.txt"
+  },
+  {
+    "id": "LECT-08",
+    "file_name": "Анализ и концептуальное моделирование систем_Лекция_2.pdf",
+    "pages": 53,
+    "bytes": 2326506,
+    "sha256": "b7f787d0d902fcd7e2dd62d871f96faf77da41a17eb762ebccd648abdff81e01",
+    "text_chars": 32838,
+    "saved_pdf": "sources/lectures/LECT-08.pdf",
+    "saved_text": "extracted/lectures/LECT-08.txt"
+  },
+  {
+    "id": "LECT-09",
+    "file_name": "Анализ и концептуальное моделирование систем_Лекция_1.pdf",
+    "pages": 32,
+    "bytes": 1827146,
+    "sha256": "33d7a42f21202cd9ca374e23562af4a2af395d533bd14a16fc9b62c95b8e26e1",
+    "text_chars": 15123,
+    "saved_pdf": "sources/lectures/LECT-09.pdf",
+    "saved_text": "extracted/lectures/LECT-09.txt"
+  },
+  {
+    "id": "LECT-10",
+    "file_name": "Лекция 7_Модели анализа, проектирования  и реализации.pdf",
+    "pages": 51,
+    "bytes": 1263255,
+    "sha256": "b3c5c3537db4ee2017422e9084ce271380c80d6a5722f1effb1a9b9ef5ea3849",
+    "text_chars": 24370,
+    "saved_pdf": "sources/lectures/LECT-10.pdf",
+    "saved_text": "extracted/lectures/LECT-10.txt"
+  },
+  {
+    "id": "LECT-11",
+    "file_name": "Анализ и концептуальное моделирование систем_Лекция_6.pdf",
+    "pages": 25,
+    "bytes": 3198938,
+    "sha256": "4add35c6ec77eb66a701bf619ad54b3ef8809e226f8a2bc6b3eefb560f754972",
+    "text_chars": 21186,
+    "saved_pdf": "sources/lectures/LECT-11.pdf",
+    "saved_text": "extracted/lectures/LECT-11.txt"
+  },
+  {
+    "id": "LECT-12",
+    "file_name": "Анализ и концептуальное моделирование систем_Лекция_7.pdf",
+    "pages": 28,
+    "bytes": 2101416,
+    "sha256": "479543f2fe038e30c4ccb673e49ed0d92d571262abfac7ba8683f45522c3fac3",
+    "text_chars": 16293,
+    "saved_pdf": "sources/lectures/LECT-12.pdf",
+    "saved_text": "extracted/lectures/LECT-12.txt"
+  },
+  {
+    "id": "LECT-13",
+    "file_name": "Анализ и концептуальное моделирование систем_Лекция_5.pdf",
+    "pages": 21,
+    "bytes": 2404484,
+    "sha256": "056f4414da131860e3844d9430ab3c46ec40d72e30964502f048fe7c937d0704",
+    "text_chars": 14615,
+    "saved_pdf": "sources/lectures/LECT-13.pdf",
+    "saved_text": "extracted/lectures/LECT-13.txt"
+  },
+  {
+    "id": "LECT-14",
+    "file_name": "Анализ и концептуальное моделирование систем_Лекция_4.pdf",
+    "pages": 29,
+    "bytes": 2934889,
+    "sha256": "b7db9fd2224f4b18434389a9e215fc9bd5c04f1e7965ce035fb8ac0985d2ba33",
+    "text_chars": 25258,
+    "saved_pdf": "sources/lectures/LECT-14.pdf",
+    "saved_text": "extracted/lectures/LECT-14.txt"
+  },
+  {
+    "id": "LECT-15",
+    "file_name": "Анализ и концептуальное моделирование систем_Лекция_3.pdf",
+    "pages": 33,
+    "bytes": 2967268,
+    "sha256": "eac5ef10ae42d8a9c11bf896c5abd5d02f94245a6e64c264d712465defcf5c5c",
+    "text_chars": 33412,
+    "saved_pdf": "sources/lectures/LECT-15.pdf",
+    "saved_text": "extracted/lectures/LECT-15.txt"
+  }
+]

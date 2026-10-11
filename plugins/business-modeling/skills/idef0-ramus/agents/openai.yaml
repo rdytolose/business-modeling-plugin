@@ -1,0 +1,4 @@
+interface:
+  display_name: "IDEF0 и экспорт в Ramus"
+  short_description: "IDEF0: JSON, проверка, сайт и готовый файл Ramus"
+  default_prompt: "Используй $idef0-ramus для моей задачи по приложенному описанию и материалам."

@@ -1,0 +1,14 @@
+{
+  "source": "https://www.omg.org/spec/UML/2.5.1/PDF",
+  "version": "2.5.1",
+  "date": "2017-12",
+  "bytes": 18069510,
+  "sha256": "416b57e1933780eb48bd60fe513e031da220c28a521bdd334a366bebc78a463e",
+  "read_sections": [
+    "9.5.3: aggregation",
+    "15.3.3: control nodes",
+    "17.3.4: lifeline notation",
+    "18.1.3-18.1.4: use cases"
+  ],
+  "coverage": "Selected sections; not the entire specification."
+}

@@ -1,0 +1,100 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "User IDEF0 converter contract",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "model",
+    "author",
+    "activity"
+  ],
+  "properties": {
+    "model": {
+      "type": "string",
+      "minLength": 1
+    },
+    "author": {
+      "type": "string",
+      "minLength": 1
+    },
+    "activity": {
+      "allOf": [
+        {
+          "$ref": "#/$defs/activity"
+        },
+        {
+          "required": [
+            "children"
+          ]
+        }
+      ]
+    }
+  },
+  "$defs": {
+    "activity": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "name",
+        "inputs",
+        "controls",
+        "outputs",
+        "mechanisms"
+      ],
+      "properties": {
+        "name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "inputs": {
+          "type": "array",
+          "minItems": 0,
+          "maxItems": 6,
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "controls": {
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 6,
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "outputs": {
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 6,
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "mechanisms": {
+          "type": "array",
+          "minItems": 0,
+          "maxItems": 6,
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "children": {
+          "type": "array",
+          "minItems": 3,
+          "maxItems": 6,
+          "items": {
+            "$ref": "#/$defs/activity"
+          }
+        }
+      }
+    }
+  }
+}

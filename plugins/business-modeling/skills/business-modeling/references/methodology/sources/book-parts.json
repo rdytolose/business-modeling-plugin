@@ -1,0 +1,67 @@
+{
+  "file_name": "kirilina_semichastnov_2022.pdf",
+  "size_bytes": 284410171,
+  "sha256": "af4ff9451f61f6be9cd142338fbf83475567d967bad40815649b687cf76ec1b1",
+  "parts": [
+    {
+      "path": "sources/book-parts/book.part-001",
+      "size_bytes": 25165824,
+      "sha256": "603350372a954ca7255486c8b2c41c2860886ac126b7fc802072f8c8937de4cd"
+    },
+    {
+      "path": "sources/book-parts/book.part-002",
+      "size_bytes": 25165824,
+      "sha256": "3af408b98d3f5dc52817686f85aae96f30baf983ce1138237789a8f280195713"
+    },
+    {
+      "path": "sources/book-parts/book.part-003",
+      "size_bytes": 25165824,
+      "sha256": "71c3c7261533af39ac1486b2b45e3e753390844fe743f2e6b8be415f2b4fd0fa"
+    },
+    {
+      "path": "sources/book-parts/book.part-004",
+      "size_bytes": 25165824,
+      "sha256": "46152a96949a9a06bb1f2e9284e15ba8a47074c610eb561c82bd6dcf77ccc701"
+    },
+    {
+      "path": "sources/book-parts/book.part-005",
+      "size_bytes": 25165824,
+      "sha256": "7b0fd44556698c6b9bdf48550e961e276c01f3957fb3c10cdd2ce1c0665a2e75"
+    },
+    {
+      "path": "sources/book-parts/book.part-006",
+      "size_bytes": 25165824,
+      "sha256": "339665b2617702ddf4de23477d3dc77fe085b0701dbdf471aab87c17e7701939"
+    },
+    {
+      "path": "sources/book-parts/book.part-007",
+      "size_bytes": 25165824,
+      "sha256": "b8450809491741396354966daf1310685e3e2459fc229ff1341934840a77866e"
+    },
+    {
+      "path": "sources/book-parts/book.part-008",
+      "size_bytes": 25165824,
+      "sha256": "73df6cf904e1e90461b3d3c8d6de4da2d203e4204f0fad158c19c9b31ae843ed"
+    },
+    {
+      "path": "sources/book-parts/book.part-009",
+      "size_bytes": 25165824,
+      "sha256": "1bf87c0fc2a36d5f7096e060ea4af947a7b3fe637d8617220789467beecd491b"
+    },
+    {
+      "path": "sources/book-parts/book.part-010",
+      "size_bytes": 25165824,
+      "sha256": "ed3eb13c75527bad00e93d5c2f639802c7c3d0f7007b19bc8a39ea3fbff4f637"
+    },
+    {
+      "path": "sources/book-parts/book.part-011",
+      "size_bytes": 25165824,
+      "sha256": "f833db76bbce06d2163084f32ab7eba33ba011827be9f41b9b9a6fde370e5aa0"
+    },
+    {
+      "path": "sources/book-parts/book.part-012",
+      "size_bytes": 7586107,
+      "sha256": "a324e2ebfd11f5e222ac1595eb774aebd2b2f03a81f03f0e4106c2d83bd3df40"
+    }
+  ]
+}

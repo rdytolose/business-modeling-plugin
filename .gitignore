@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.business-modeling-materials/
+models/
+outputs/
+tmp/
+.DS_Store

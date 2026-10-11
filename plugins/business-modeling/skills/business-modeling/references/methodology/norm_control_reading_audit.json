@@ -1,0 +1,138 @@
+{
+  "checked_at": "2026-10-11",
+  "url": "https://reader.lanbook.com/book/167623",
+  "title": "Нормоконтроль документации. Методические рекомендации",
+  "authors": [
+    "Бергер Е. Г.",
+    "Зуев А. С."
+  ],
+  "year": 2020,
+  "pages_total": 30,
+  "text_pages_read": 30,
+  "missing_text_pages": [],
+  "pages": [
+    {
+      "page": 1,
+      "rendered_text_chars": 297
+    },
+    {
+      "page": 2,
+      "rendered_text_chars": 1648
+    },
+    {
+      "page": 3,
+      "rendered_text_chars": 1657
+    },
+    {
+      "page": 4,
+      "rendered_text_chars": 1354
+    },
+    {
+      "page": 5,
+      "rendered_text_chars": 2366
+    },
+    {
+      "page": 6,
+      "rendered_text_chars": 1963
+    },
+    {
+      "page": 7,
+      "rendered_text_chars": 3158
+    },
+    {
+      "page": 8,
+      "rendered_text_chars": 2377
+    },
+    {
+      "page": 9,
+      "rendered_text_chars": 2264
+    },
+    {
+      "page": 10,
+      "rendered_text_chars": 2321
+    },
+    {
+      "page": 11,
+      "rendered_text_chars": 975
+    },
+    {
+      "page": 12,
+      "rendered_text_chars": 1322
+    },
+    {
+      "page": 13,
+      "rendered_text_chars": 2511
+    },
+    {
+      "page": 14,
+      "rendered_text_chars": 1794
+    },
+    {
+      "page": 15,
+      "rendered_text_chars": 2470
+    },
+    {
+      "page": 16,
+      "rendered_text_chars": 994
+    },
+    {
+      "page": 17,
+      "rendered_text_chars": 1944
+    },
+    {
+      "page": 18,
+      "rendered_text_chars": 1040
+    },
+    {
+      "page": 19,
+      "rendered_text_chars": 1997
+    },
+    {
+      "page": 20,
+      "rendered_text_chars": 1339
+    },
+    {
+      "page": 21,
+      "rendered_text_chars": 2046
+    },
+    {
+      "page": 22,
+      "rendered_text_chars": 1722
+    },
+    {
+      "page": 23,
+      "rendered_text_chars": 1453
+    },
+    {
+      "page": 24,
+      "rendered_text_chars": 1877
+    },
+    {
+      "page": 25,
+      "rendered_text_chars": 628
+    },
+    {
+      "page": 26,
+      "rendered_text_chars": 2196
+    },
+    {
+      "page": 27,
+      "rendered_text_chars": 1363
+    },
+    {
+      "page": 28,
+      "rendered_text_chars": 1979
+    },
+    {
+      "page": 29,
+      "rendered_text_chars": 511
+    },
+    {
+      "page": 30,
+      "rendered_text_chars": 1308
+    }
+  ],
+  "saved_content": "Own methodological notes only; full reader text not exported.",
+  "visual_coverage": "Not every illustration, table layout or test example was visually checked.",
+  "standards_currency": "Not verified; book cites editions available to its authors in 2020."
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "BPMN и проверка маршрутов"
+  short_description: "BPMN: участники, маршруты и проверка моделей"
+  default_prompt: "Используй $bpmn-modeling для моей задачи по приложенному описанию и материалам."

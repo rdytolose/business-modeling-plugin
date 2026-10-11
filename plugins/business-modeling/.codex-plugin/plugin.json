@@ -1,0 +1,15 @@
+{
+  "name": "business-modeling",
+  "version": "1.0.0",
+  "description": "Бизнес-модели по методике: IDEF0/Ramus, UML, BPMN, IDEF3, ARIS, DFD/WFD и учебные отчеты.",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Business Modeling",
+    "shortDescription": "Схемы по методике и экспорт IDEF0 в Ramus",
+    "longDescription": "Восемь навыков, методические конспекты, исходные материалы, валидатор IDEF0 и порядок экспорта JSON → сайт → .rsf для Java 20+.",
+    "category": "Productivity",
+    "defaultPrompt": [
+      "Построй модель по моему описанию с проверкой по методике."
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "ARIS, eEPC и структура организации"
+  short_description: "eEPC, оргструктура и деревья функций по методике"
+  default_prompt: "Используй $aris-modeling для моей задачи по приложенному описанию и материалам."

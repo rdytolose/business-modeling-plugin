@@ -1,0 +1,585 @@
+{
+  "release": "1.0.0",
+  "files": [
+    {
+      "path": ".agents/plugins/marketplace.json",
+      "size_bytes": 410,
+      "sha256": "109e12d64c1b2cc64fda6b582bebcd5adf96f62fea0ffdece3da47531d0d3a8b"
+    },
+    {
+      "path": ".gitattributes",
+      "size_bytes": 101,
+      "sha256": "0506c05a27be6a1d54fe58ab22d72c465917cbcdbeeb0d6f03e99fe5741f42d7"
+    },
+    {
+      "path": ".gitignore",
+      "size_bytes": 81,
+      "sha256": "1c5ac106e9b9b886f457f6fad59dcac6a0909892642c57eef23fff631ecbd3e9"
+    },
+    {
+      "path": "MATERIALS.md",
+      "size_bytes": 2596,
+      "sha256": "c362d53f4777b5a62d808b9e6c2b529955393689ba773aaf1170c615e30f59cc"
+    },
+    {
+      "path": "QA_REPORT.json",
+      "size_bytes": 1008,
+      "sha256": "b7f949d1d726149db741d2bb5c4413bfca32ff0824dae76f3594d593cf95d4ef"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 10867,
+      "sha256": "3103256d6eedb1b1c4a5bcee75df0b0f9ce9ea5fef40748988d60f8031da65fc"
+    },
+    {
+      "path": "plugins/business-modeling/.codex-plugin/plugin.json",
+      "size_bytes": 798,
+      "sha256": "cf3dc04ce960db2da0ec3de7f07145c672b26436d47104b1ba26ca5ec579b10e"
+    },
+    {
+      "path": "plugins/business-modeling/plugin.json",
+      "size_bytes": 1005,
+      "sha256": "23b2af413d085f885aff6e43a686ad5ccac4e3d6a4ea192ad57b0edd35e9d836"
+    },
+    {
+      "path": "plugins/business-modeling/skills/aris-modeling/SKILL.md",
+      "size_bytes": 2473,
+      "sha256": "ee41d02e203558b8c71a5a92c983522468dcf3b9371d362ac01bcd11f9a15823"
+    },
+    {
+      "path": "plugins/business-modeling/skills/aris-modeling/agents/openai.yaml",
+      "size_bytes": 349,
+      "sha256": "01498ff93b4ea6ed29411178953b871dc255561c1f1e640372821ea8469aed9b"
+    },
+    {
+      "path": "plugins/business-modeling/skills/bpmn-modeling/SKILL.md",
+      "size_bytes": 2530,
+      "sha256": "cc00b7bca46c971c91409548781c083444404a96417dd9f0ea0fcafdcde48d5b"
+    },
+    {
+      "path": "plugins/business-modeling/skills/bpmn-modeling/agents/openai.yaml",
+      "size_bytes": 329,
+      "sha256": "71f0c0bbda6cc23e6ee9d32c5c2e549a4e5557bee6b7f8ec1c32ac90f957600a"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/SKILL.md",
+      "size_bytes": 4919,
+      "sha256": "c47d14e60f995e44bd8d828bb98598930d1ff2e4bcce5a6ea5a076de89962d24"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/agents/openai.yaml",
+      "size_bytes": 391,
+      "sha256": "125d0428e4a6797208d6089409e10206ad43a1815271508ca29e619c4a6c3a20"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/examples/idef0-demo.json",
+      "size_bytes": 1663,
+      "sha256": "3cde9f8b7f6e425a0bb73a9f68c430efd4b3dd8495323122bc5126be739247b7"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/examples/idef0-demo.rsf",
+      "size_bytes": 127338,
+      "sha256": "8795fb9521998e1525bcfe2d09b68236b817313a4b9aa328994230d2b498bb7a"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/BOOK_NOTES.md",
+      "size_bytes": 35085,
+      "sha256": "75aa8b60e0c069905777713eea7fe6a11c91fcc51fb1b5c2376fe36299981708"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/IDEF0_RULES.md",
+      "size_bytes": 10761,
+      "sha256": "2cd117c827b6e70cbd27a84998990c53a374743283da1ef4ec9faaf3579b9b72"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/JSON_CONTRACT.md",
+      "size_bytes": 5670,
+      "sha256": "0fedc6af4ae9549104714c1ab1dc9ff1ba5e5ad2d176b3cf349f5cd5c9238213"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/LECTURES_INDEX.md",
+      "size_bytes": 7633,
+      "sha256": "6e37ee5f9b888c2658db7c70e24512df2e18e3bb4b51f79881f7e812e4703c26"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/NORM_CONTROL.md",
+      "size_bytes": 7317,
+      "sha256": "2e6650abe0ec739da3ff3171512feca87246fe408388d4cf4a2a3246ebd9a97a"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/RAMUS_WORKFLOW.md",
+      "size_bytes": 6041,
+      "sha256": "3f927927dc044c92b22e229b7dac45e318b5ce1925e52a86314f26024970617d"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/README.md",
+      "size_bytes": 5090,
+      "sha256": "33f074879f8e68ff3121a98dd5b82ae15ee81784b02aefde3392bb29a4dba4d1"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/UML_RULES.md",
+      "size_bytes": 9787,
+      "sha256": "e61d1e63441f0a710a4b1d040763172f5bc71c803430406cc2049470b6924cfd"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/extracted/idef-021.txt",
+      "size_bytes": 3909,
+      "sha256": "c908d5f4f01397219d198d8e65dd9117a78d7fd6084f1ec07430014847fb65d1"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/extracted/idef-022.txt",
+      "size_bytes": 3732,
+      "sha256": "66cb6fe996fe0640f881eec4f5b6803850f3f43673eb11b7e7859d484e597be3"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/extracted/idef-023.txt",
+      "size_bytes": 2032,
+      "sha256": "113d58718cb1d61c82cdb94f698aafe1334c2be2d792e89d2fd32ce2fa040aba"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/extracted/idef-024.txt",
+      "size_bytes": 3557,
+      "sha256": "bab832c82dad1cd4e74ec54c704d4a8df0ac09f4e8c9287438233a6f2567cc00"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/extracted/idef-025.txt",
+      "size_bytes": 658,
+      "sha256": "1bd147b3d70292255062dd7c5907ffa0f53e65e1b544b6ad9c3628fae67fbbde"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/extracted/idef-026.txt",
+      "size_bytes": 3113,
+      "sha256": "c17ba1c14444a327cccb9002a03021ba4e85ec65adcce2f9d1ad02c89bc61537"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/extracted/idef-027.txt",
+      "size_bytes": 3051,
+      "sha256": "d16f95984c980bfe6b52e467446feb82dd892dcf8140f679c24a70f02a16d68c"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/extracted/idef-028.txt",
+      "size_bytes": 2614,
+      "sha256": "31d747b818007cb30ae42612c63f70f3b5eb9aaaa7030f0b810a5b41bd6b1d51"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/extracted/idef-029.txt",
+      "size_bytes": 3874,
+      "sha256": "ab2855e6a0015d4c75884455d3cb5aaade4e36e4f1b0cad13e8379632d738b2e"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/extracted/idef-030.txt",
+      "size_bytes": 1398,
+      "sha256": "474fef9c8a6c24dfcc214d5816585f0f2eae165c7cdf46d4c24ed7fe4149ca48"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/extracted/idef-031.txt",
+      "size_bytes": 3084,
+      "sha256": "86de7757270372eb7ec0bac90629d8082e19422349f9fbca05d82dd9ffcfd852"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/extracted/idef-032.txt",
+      "size_bytes": 1557,
+      "sha256": "25d14057ba8bb5660b7ec3ceb2d940ce00d3741c084e360d6f2f653e6343616d"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/extracted/idef-033.txt",
+      "size_bytes": 2925,
+      "sha256": "42d68a309afd1a6c6297fcdda8b42366d89f58c5e0aa8aee32d5aab19ffaeca4"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/extracted/idef-034.txt",
+      "size_bytes": 1152,
+      "sha256": "5608cf9df9d08ad999f32a7e7695741deecdbc801a68a297321089676ef2daad"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/extracted/idef-035.txt",
+      "size_bytes": 4057,
+      "sha256": "6a63603641ee58b4a54be3fc11ee48d79d825cbedd3dd5e4834b16cc6cf0e5b8"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/extracted/idef-036.txt",
+      "size_bytes": 3475,
+      "sha256": "8dc7e99dfd272e2891d9c6eec0491e1e46bb981d916c5d2f92a9c78d3a01b64e"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/extracted/idef-037.txt",
+      "size_bytes": 3988,
+      "sha256": "24ab6b878e17dcb7098e704a6fe690161d22ddd1b1aba0eb7c3e522de660c390"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/extracted/idef-038.txt",
+      "size_bytes": 3092,
+      "sha256": "a68ba57aeddf057ab4c9dd6e0ec05a09c9823069ee46e01ebdf0f64742c3eeb0"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/extracted/idef-039.txt",
+      "size_bytes": 3411,
+      "sha256": "4726a66383cd010e9f3d2915f31fe4e2c4768ee0e5f2a4b4ad709973220824f6"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/extracted/idef-040.txt",
+      "size_bytes": 2594,
+      "sha256": "449ba79cc159320e75663a0be33c569def2719152487fb906de54b6db80ebdaa"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/extracted/idef-041.txt",
+      "size_bytes": 1674,
+      "sha256": "367f817d3a8221b851026028f65369d189f294cde4bf865d4241d53d8d0123a5"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/extracted/idef-042.txt",
+      "size_bytes": 2740,
+      "sha256": "1c889fa05a93cc4a4b83777295e8a0eef9a40ddc9c20931d2302713c46196b2c"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/extracted/idef-043.txt",
+      "size_bytes": 2626,
+      "sha256": "72af5c75c99be11dffcedf6d227a86805d614fd3ef595c695dcd4d517d49ad4f"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/extracted/kinzyabulatov_idef0.txt",
+      "size_bytes": 80172,
+      "sha256": "19f42630cacdfed1d31b811a4cf407ee79f8e80b52495b4b1fd4bca4d6139fda"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/extracted/lectures/LECT-01.txt",
+      "size_bytes": 284742,
+      "sha256": "e151bec6ba9fbb3e0ac55854b27f9f324834ff103262d5daf741b2b2a8100f29"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/extracted/lectures/LECT-02.txt",
+      "size_bytes": 35719,
+      "sha256": "c64510eac13e99562176db8c2f3deaabbf4123dd0729d567cb2d810dd19def1d"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/extracted/lectures/LECT-03.txt",
+      "size_bytes": 38268,
+      "sha256": "539db37c35c76552f01af80e7a5cb9f52a11ad1bda4833f47a2c38ef1db8951c"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/extracted/lectures/LECT-04.txt",
+      "size_bytes": 5701,
+      "sha256": "dfd68ab8127b92722755ed2669f8ae4f57978967a1acd56a835505eb193c2be5"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/extracted/lectures/LECT-05.txt",
+      "size_bytes": 44454,
+      "sha256": "8db7f59ecf2dacd993edfa46dbeaa9838b77d0428f6f618eb8b22ab7c2963597"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/extracted/lectures/LECT-06.txt",
+      "size_bytes": 34096,
+      "sha256": "f5504c8d4b325d408aa7976e40f69bce870389c6b745c1ee758407a8be7a10a9"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/extracted/lectures/LECT-07.txt",
+      "size_bytes": 46348,
+      "sha256": "534cd027be7ce9a9cbac6f47708a3439ff256348c4c8ce59349d42b01a39abed"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/extracted/lectures/LECT-08.txt",
+      "size_bytes": 52389,
+      "sha256": "6f75fc99badb73619d89e370e33029aac5ffb8373625f634b40f32fe64230430"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/extracted/lectures/LECT-09.txt",
+      "size_bytes": 25547,
+      "sha256": "720220562b34e6047832b44e37df728b51fad852d1134910d221ade869a48b3d"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/extracted/lectures/LECT-10.txt",
+      "size_bytes": 41283,
+      "sha256": "36ddcb73625688239c93eeb58026c9d1a7263331e0a8fbabb3f1219a091abcca"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/extracted/lectures/LECT-11.txt",
+      "size_bytes": 33460,
+      "sha256": "9f5971e7b7fbd513e033f33947df8b32ad6710921565367baf1579a5a82e04d1"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/extracted/lectures/LECT-12.txt",
+      "size_bytes": 23312,
+      "sha256": "8643702160e441a7867df7e34814940a80aad6010bcc17ff760b9ca24b0ce906"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/extracted/lectures/LECT-13.txt",
+      "size_bytes": 21641,
+      "sha256": "e9c03079721ad78978900598118afb665a0f15c59761155fbdbb4da0e4c18311"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/extracted/lectures/LECT-14.txt",
+      "size_bytes": 37578,
+      "sha256": "7c48c6348357c7b6bc815dd8aac54463f215174ba6b618c3ac8159ddfde5f07d"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/extracted/lectures/LECT-15.txt",
+      "size_bytes": 49776,
+      "sha256": "f8c6a8c2be77f8c7eaca47e3febe943dd15c35ffbd780ce225c33e40371ab1e2"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/extracted/lectures/page_index.json",
+      "size_bytes": 340305,
+      "sha256": "b38695a8716c03b41ab13b44be883b09e838dc53cabfbd88da400a44a0b86f02"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/idef0.schema.json",
+      "size_bytes": 2010,
+      "sha256": "b098eaafbf7ed5e3131c2e849f4266e7cf75aa37018c4d24db37574d02e7d0e2"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/norm_control_reading_audit.json",
+      "size_bytes": 2593,
+      "sha256": "f8e457e34825d58367423ff1d510bc519ccec68f9e1e2aff84b35fffd0779aa7"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/reading_audit.json",
+      "size_bytes": 1540,
+      "sha256": "4b86d0fc8533f78dc873b0802b74b4350928ca899efb56a4660aacc6ed43ec73"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/sources/book-parts/book.part-001",
+      "size_bytes": 25165824,
+      "sha256": "603350372a954ca7255486c8b2c41c2860886ac126b7fc802072f8c8937de4cd"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/sources/book-parts/book.part-002",
+      "size_bytes": 25165824,
+      "sha256": "3af408b98d3f5dc52817686f85aae96f30baf983ce1138237789a8f280195713"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/sources/book-parts/book.part-003",
+      "size_bytes": 25165824,
+      "sha256": "71c3c7261533af39ac1486b2b45e3e753390844fe743f2e6b8be415f2b4fd0fa"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/sources/book-parts/book.part-004",
+      "size_bytes": 25165824,
+      "sha256": "46152a96949a9a06bb1f2e9284e15ba8a47074c610eb561c82bd6dcf77ccc701"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/sources/book-parts/book.part-005",
+      "size_bytes": 25165824,
+      "sha256": "7b0fd44556698c6b9bdf48550e961e276c01f3957fb3c10cdd2ce1c0665a2e75"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/sources/book-parts/book.part-006",
+      "size_bytes": 25165824,
+      "sha256": "339665b2617702ddf4de23477d3dc77fe085b0701dbdf471aab87c17e7701939"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/sources/book-parts/book.part-007",
+      "size_bytes": 25165824,
+      "sha256": "b8450809491741396354966daf1310685e3e2459fc229ff1341934840a77866e"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/sources/book-parts/book.part-008",
+      "size_bytes": 25165824,
+      "sha256": "73df6cf904e1e90461b3d3c8d6de4da2d203e4204f0fad158c19c9b31ae843ed"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/sources/book-parts/book.part-009",
+      "size_bytes": 25165824,
+      "sha256": "1bf87c0fc2a36d5f7096e060ea4af947a7b3fe637d8617220789467beecd491b"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/sources/book-parts/book.part-010",
+      "size_bytes": 25165824,
+      "sha256": "ed3eb13c75527bad00e93d5c2f639802c7c3d0f7007b19bc8a39ea3fbff4f637"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/sources/book-parts/book.part-011",
+      "size_bytes": 25165824,
+      "sha256": "f833db76bbce06d2163084f32ab7eba33ba011827be9f41b9b9a6fde370e5aa0"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/sources/book-parts/book.part-012",
+      "size_bytes": 7586107,
+      "sha256": "a324e2ebfd11f5e222ac1595eb774aebd2b2f03a81f03f0e4106c2d83bd3df40"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/sources/book-parts.json",
+      "size_bytes": 2287,
+      "sha256": "23db30bf2f974daf5da2af0a8efcfcfeea5dc9d112f77b119e280045e414272f"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/sources/kinzyabulatov_idef0.html",
+      "size_bytes": 5136389,
+      "sha256": "b3cf87cb408842a715d1b496b0e317e782c2875bc5261ec1d46b3cc641a6d00d"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/sources/lectures/LECT-01.pdf",
+      "size_bytes": 15538965,
+      "sha256": "76cc104ae6996c5c629195550be44e42611109c1a3d2e7f5e24fd2d835405d70"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/sources/lectures/LECT-02.pdf",
+      "size_bytes": 953955,
+      "sha256": "40464291bf2b251e236bd4d9c0193b37444df69fa5a66e90a5f6fcc1623d3995"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/sources/lectures/LECT-03.pdf",
+      "size_bytes": 2083706,
+      "sha256": "84e3fbf0f2f3b8d8bd423f08de7c1d8eadc8c49fa70aba4e628124585bafcef4"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/sources/lectures/LECT-04.pdf",
+      "size_bytes": 1903823,
+      "sha256": "c0338f10d2f24437f16178fdfb90af7ca227f53e2e6163fecb8e9fd633cca42b"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/sources/lectures/LECT-05.pdf",
+      "size_bytes": 1192321,
+      "sha256": "c2efd77fc3566b403a90a0d8812d4a15ac782f88b2c38dd35ef071a1b202438c"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/sources/lectures/LECT-06.pdf",
+      "size_bytes": 1840916,
+      "sha256": "73dc414228290f7dddfe01b3e8c778f996f7ec883415e56a3e16d37fa19ca742"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/sources/lectures/LECT-07.pdf",
+      "size_bytes": 5286989,
+      "sha256": "140757c7fe2819ca33f7cf491a362e78db67258548085a7761de922fafd0766f"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/sources/lectures/LECT-08.pdf",
+      "size_bytes": 2326506,
+      "sha256": "b7f787d0d902fcd7e2dd62d871f96faf77da41a17eb762ebccd648abdff81e01"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/sources/lectures/LECT-09.pdf",
+      "size_bytes": 1827146,
+      "sha256": "33d7a42f21202cd9ca374e23562af4a2af395d533bd14a16fc9b62c95b8e26e1"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/sources/lectures/LECT-10.pdf",
+      "size_bytes": 1263255,
+      "sha256": "b3c5c3537db4ee2017422e9084ce271380c80d6a5722f1effb1a9b9ef5ea3849"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/sources/lectures/LECT-11.pdf",
+      "size_bytes": 3198938,
+      "sha256": "4add35c6ec77eb66a701bf619ad54b3ef8809e226f8a2bc6b3eefb560f754972"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/sources/lectures/LECT-12.pdf",
+      "size_bytes": 2101416,
+      "sha256": "479543f2fe038e30c4ccb673e49ed0d92d571262abfac7ba8683f45522c3fac3"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/sources/lectures/LECT-13.pdf",
+      "size_bytes": 2404484,
+      "sha256": "056f4414da131860e3844d9430ab3c46ec40d72e30964502f048fe7c937d0704"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/sources/lectures/LECT-14.pdf",
+      "size_bytes": 2934889,
+      "sha256": "b7db9fd2224f4b18434389a9e215fc9bd5c04f1e7965ce035fb8ac0985d2ba33"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/sources/lectures/LECT-15.pdf",
+      "size_bytes": 2967268,
+      "sha256": "eac5ef10ae42d8a9c11bf896c5abd5d02f94245a6e64c264d712465defcf5c5c"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/sources/lectures/manifest.json",
+      "size_bytes": 6024,
+      "sha256": "c9ad17f707a60dfd22c52a8bd2541357482a276b902c6b5c638ac36e790a18b2"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/sources/manifest.json",
+      "size_bytes": 341,
+      "sha256": "dd76db444658a145194915e649c32889a511b0f03c7e12a24b80137b39e5eec4"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/sources/uml-2.5.1.metadata.json",
+      "size_bytes": 412,
+      "sha256": "710ffea48681c2bf22958453838266a3728dd7eee097ee5e2619a8fbe1f991ce"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/references/methodology/sources/uml-2.5.1.pdf",
+      "size_bytes": 18069510,
+      "sha256": "416b57e1933780eb48bd60fe513e031da220c28a521bdd334a366bebc78a463e"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/scripts/check_rsf.py",
+      "size_bytes": 1615,
+      "sha256": "ada7cc2688f72de1bae9b47c127b381c0fd75f77abcc22e1bbb2489cbfbfbd68"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/scripts/prepare_materials.py",
+      "size_bytes": 2808,
+      "sha256": "a90c856eee72ff14482b497a4ba9e5d0572a667ac8d5bb7667edae431fe77eac"
+    },
+    {
+      "path": "plugins/business-modeling/skills/business-modeling/scripts/validate_idef0.py",
+      "size_bytes": 9560,
+      "sha256": "7f76b14a64d6f7149815f127f005f4b189b9c3854d90f105290760bcf4d9f1ba"
+    },
+    {
+      "path": "plugins/business-modeling/skills/dfd-wfd-modeling/SKILL.md",
+      "size_bytes": 2393,
+      "sha256": "317925f69784c5eec21ecf01648991783021f0a9c1c4b63af933abcebb7ecc83"
+    },
+    {
+      "path": "plugins/business-modeling/skills/dfd-wfd-modeling/agents/openai.yaml",
+      "size_bytes": 332,
+      "sha256": "45a93994fca08236e1170b4a33a8dce43b363fad4d0efdbcc2156568eaa64eb8"
+    },
+    {
+      "path": "plugins/business-modeling/skills/idef0-ramus/SKILL.md",
+      "size_bytes": 2808,
+      "sha256": "ba0c0b7900a55a7f5809b9649493f0d80f62a7d058620f39c46fe0db1977dff0"
+    },
+    {
+      "path": "plugins/business-modeling/skills/idef0-ramus/agents/openai.yaml",
+      "size_bytes": 311,
+      "sha256": "29196e2bb035f3cd0d372b343ff80bb0f6d68e78da4ce385953f443cee6c8961"
+    },
+    {
+      "path": "plugins/business-modeling/skills/idef3-modeling/SKILL.md",
+      "size_bytes": 1927,
+      "sha256": "ec74ebea903d2fd0da603f4c8822e1f1698c8ae7dc0d823d4d23ab376b1ede77"
+    },
+    {
+      "path": "plugins/business-modeling/skills/idef3-modeling/agents/openai.yaml",
+      "size_bytes": 341,
+      "sha256": "1d1b80a86dd9b271c4fa7cc54bf12ea9185fdca4e5e6afd0177e71274e410e34"
+    },
+    {
+      "path": "plugins/business-modeling/skills/modeling-report/SKILL.md",
+      "size_bytes": 2438,
+      "sha256": "8d7738e2fae4ece897961d09b58b094538f647de374289085bfd9af5369ef2db"
+    },
+    {
+      "path": "plugins/business-modeling/skills/modeling-report/agents/openai.yaml",
+      "size_bytes": 338,
+      "sha256": "b27bb282151834460e3d7c6ea405759dcc22aba64a3735067d03cccbc477c3c0"
+    },
+    {
+      "path": "plugins/business-modeling/skills/uml-modeling/SKILL.md",
+      "size_bytes": 2619,
+      "sha256": "f6de213a3ad0467366263a7873a39b13e8bc5edecf16a9d68675fb11edd95360"
+    },
+    {
+      "path": "plugins/business-modeling/skills/uml-modeling/agents/openai.yaml",
+      "size_bytes": 320,
+      "sha256": "e8d3a814d75ff5235313175751ce506ca9eeac1b0d970a2c33f8885a0f804aa1"
+    },
+    {
+      "path": "scripts/install_skills.py",
+      "size_bytes": 1109,
+      "sha256": "74d1b509f1ddd7fe41a21fc2877be72158516e2119a6eb5f31b032bb65726c19"
+    },
+    {
+      "path": "scripts/verify_package.py",
+      "size_bytes": 1335,
+      "sha256": "3bf4931d6b3d926113ef5cfdaa5da258b4e5331da1b0582b7095b53f4b6f1eb0"
+    },
+    {
+      "path": "tests/test_plugin.py",
+      "size_bytes": 6139,
+      "sha256": "b762a6aae1f66bec378b73243f1a590695a52336fc0d669f688fddde250958bd"
+    }
+  ]
+}

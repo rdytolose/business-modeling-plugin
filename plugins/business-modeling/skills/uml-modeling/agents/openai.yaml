@@ -1,0 +1,4 @@
+interface:
+  display_name: "UML по методике и лекциям"
+  short_description: "UML по лекциям, исходникам и правилам OMG"
+  default_prompt: "Используй $uml-modeling для моей задачи по приложенному описанию и материалам."

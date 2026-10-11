@@ -1,0 +1,28 @@
+{
+  "checked_at": "2026-10-11",
+  "skills_validated": 8,
+  "unit_tests_passed": 10,
+  "book_restored_sha256": "af4ff9451f61f6be9cd142338fbf83475567d967bad40815649b687cf76ec1b1",
+  "book_pages": 140,
+  "local_marketplace_resolved_by_codex": true,
+  "standalone_installation_test": "8 skills copied to isolated temporary directory",
+  "relative_markdown_links": "passed",
+  "distributed_files_under_25_MiB": true,
+  "idef0_demo": {
+    "validator_strict": "passed",
+    "site": "https://idef0.wakl3.com/",
+    "java": "20 и новее",
+    "activities": 4,
+    "diagrams": 2,
+    "download_size_bytes": 127338,
+    "zip_crc": "passed",
+    "preview_screenshot": "unavailable",
+    "full_visual_acceptance": false,
+    "opened_in_ramus": false
+  },
+  "limitations": [
+    "Desktop plugin installation was not executed in the user profile",
+    "Browser tools are provided by the host, not by this skills-only plugin",
+    "No complete PDF for the norm-control booklet was present in the supplied files"
+  ]
+}

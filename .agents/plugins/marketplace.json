@@ -1,0 +1,20 @@
+{
+  "name": "business-modeling-tools",
+  "interface": {
+    "displayName": "Business Modeling Tools"
+  },
+  "plugins": [
+    {
+      "name": "business-modeling",
+      "source": {
+        "source": "local",
+        "path": "./plugins/business-modeling"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
